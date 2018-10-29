@@ -1,0 +1,49 @@
+
+---Downloaded files---
+The import files for: Agency were successfully downloaded!
+Initial max execution time = 180
+Files info:
+Site URL = http://catalystdev-test.com
+Data file = C:\xampp\htdocs\catalystdev-test/wp-content/uploads/2018/10/demo-content-import-file_2018-10-15__03-56-18.xml
+Widget file = C:\xampp\htdocs\catalystdev-test/wp-content/uploads/2018/10/demo-widgets-import-file_2018-10-15__03-56-18.json
+Customizer file = C:\xampp\htdocs\catalystdev-test/wp-content/uploads/2018/10/demo-customizer-import-file_2018-10-15__03-56-18.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer 1 : 
+
+Text - No Title - Imported
+
+Footer 2 : 
+
+Text - Contact us - Imported
+
+Footer 3 : 
+
+Navigation Menu - Quick links - Imported
+
+Footer 4 : 
+
+Airi: Social Profile - Follow us - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

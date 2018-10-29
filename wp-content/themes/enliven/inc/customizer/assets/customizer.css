@@ -1,0 +1,231 @@
+#customize-theme-controls .accordion-section-title {
+	/*background: #333;*/
+}
+
+.accordion-section-title:after, .handlediv, .item-edit, .sidebar-name-arrow, .widget-action {
+    color: #DEDEDE;
+}
+
+.wp-full-overlay-sidebar { 
+	background: #EFEFEF;
+}
+
+#customize-controls .control-section .accordion-section-title:focus, #customize-controls .control-section .accordion-section-title:hover, #customize-controls .control-section.open .accordion-section-title, #customize-controls .control-section:hover>.accordion-section-title {
+    background: #f5f5f5;
+}
+
+#customize-theme-controls .control-section .accordion-section-title:focus:after, #customize-theme-controls .control-section .accordion-section-title:hover:after, #customize-theme-controls .control-section.open .accordion-section-title:after, #customize-theme-controls .control-section:hover>.accordion-section-title:after {
+	color: #555;
+}
+
+.customize-control-checkbox label {
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.customize-control-description {
+	font-weight: normal;
+}
+
+#customize-theme-controls .accordion-section-title {
+	color: #555;
+}
+
+.customize-control select {
+	min-width: 98%;
+}
+
+.control-section h3.accordion-section-title:before {
+	right: 0;
+	content: '\f105';
+	border: none;
+	background: 0 0;
+	font: 400 16px/1 FontAwesome;
+	speak: none;
+	display: block;
+	padding: 0;
+	text-indent: 0;
+	position: relative;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-decoration: none!important;
+	margin: 2px 17px 0 15px;
+	float: left;
+	width: 23px;
+	color: #232323;
+}
+
+.nav-menus-php .item-edit:before, .widget-top a.widget-action:before {
+	content: '';
+}
+
+.control-section h3.accordion-section-title {
+	padding-left: 0;
+}
+
+#accordion-panel-widgets .control-section h3.accordion-section-title:before {
+	content: none;
+}
+
+#accordion-panel-widgets .control-section h3.accordion-section-title {
+	padding-left: 20px;
+}
+
+#accordion-panel-nav_menus .control-section h3.accordion-section-title:before {
+	content: none;
+}
+
+#accordion-panel-nav_menus .control-section h3.accordion-section-title {
+	padding-left: 20px;
+}
+
+/* Icons */
+
+/* Site Identity */
+#accordion-section-title_tagline h3.accordion-section-title:before {
+	content: '\f19c';
+}
+
+/* General Settings */
+#accordion-section-enliven_general_settings h3.accordion-section-title:before {
+	content: '\f085';
+}
+
+/* Header Settings */
+#accordion-panel-enliven_header_panel h3.accordion-section-title:before {
+	content: '\f09d';
+}
+
+/* Header Type Select */
+#accordion-section-enliven_header_type_select h3.accordion-section-title:before {
+	content: '\f05d';
+}
+
+/* Header Text */
+#accordion-section-enliven_header_content h3.accordion-section-title:before {
+	content: '\f0f6';
+}
+
+/* Header Image */
+#accordion-section-header_image h3.accordion-section-title:before {
+	content: '\f03e';
+}
+
+/* Homepage Settings */
+#accordion-panel-enliven_home_settings h3.accordion-section-title:before {
+	content: '\f108';
+}
+
+/* Post/Page Settings */
+#accordion-section-enliven_post_page_settings h3.accordion-section-title:before {
+	content: '\f0f6';
+}
+
+/* Site Styling */
+#accordion-panel-enliven_theme_styling h3.accordion-section-title:before {
+	content: '\f1fc';
+}
+
+#accordion-section-colors h3.accordion-section-title:before {
+	content: '\f1fc';
+}
+
+/* Blog Settings */
+#accordion-section-enliven_blog_section h3.accordion-section-title:before {
+	content: '\f1ea';
+}
+
+/* Portfolio Settings */
+#accordion-section-enliven_portfolio_section h3.accordion-section-title:before {
+	content: '\f083';
+}
+
+/* Testimonial Settings */
+#accordion-section-enliven_testimonial_section h3.accordion-section-title:before {
+	content: '\f0e6';
+}
+
+/* Shop Settings */
+#accordion-section-enliven_wc_section h3.accordion-section-title:before {
+	content: '\f218';
+}
+
+/* Menus */
+#accordion-panel-nav_menus h3.accordion-section-title:before {
+	content: '\f0c9';
+} 
+
+#sub-accordion-panel-nav_menus h3.accordion-section-title:before {
+	content: none !important;
+} 
+
+#sub-accordion-panel-nav_menus h3.accordion-section-title {
+	padding-left: 14px;
+} 
+
+/* Widgets */
+#accordion-panel-widgets h3.accordion-section-title:before {
+	content: '\f009';
+} 
+
+#sub-accordion-panel-widgets h3.accordion-section-title:before {
+	content: none !important;
+} 
+
+#sub-accordion-panel-widgets h3.accordion-section-title {
+	padding-left: 14px;
+}
+
+/* Background Image */
+#accordion-section-background_image h3.accordion-section-title:before {
+	content: '\f03e';
+}  
+
+/* Custom CSS */ 
+#accordion-section-enliven_custom_css h3.accordion-section-title:before {
+	content: '\f044';
+}  
+
+/* Static Frontpage */ 
+#accordion-section-static_front_page h3.accordion-section-title:before {
+	content: '\f015';
+	font-size: 20px;
+}  
+
+/* Featured Slider */ 
+#accordion-panel-enliven_slider_panel h3.accordion-section-title:before {
+	content: '\f110';
+}  
+
+#sub-accordion-panel-enliven_slider_panel h3.accordion-section-title:before {
+	content: '\f03e';
+} 
+
+#accordion-section-enliven_slider_settings h3.accordion-section-title:before {
+	content: '\f013';
+}  
+
+/* Layout Options */ 
+#accordion-section-enliven_layout_options h3.accordion-section-title:before {
+	content: '\f022';
+}  
+
+/* Typography */ 
+#accordion-section-enliven_typography h3.accordion-section-title:before {
+	content: '\f031';
+}  
+
+/* Pro Version */ 
+#accordion-section-enliven_pro_details h3.accordion-section-title:before {
+	content: '\f219';
+	color: #F3B833;
+}  
+
+#customize-control-display_custom_slider_switch {
+	margin: 20px 0 30px 0;
+}
+
+.enl-bend-ul {
+	list-style: initial;
+	margin: 5px 0 5px 20px;
+}
